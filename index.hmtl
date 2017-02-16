@@ -1,3 +1,34 @@
 <!doctype html>
 <html>
+<head>
+  <title>Rasika Sant</title>
+</head>
+<body>
+
+  <header>
+      <h1>Awesome News</h1>
+      <h2>This is the coolest news</h2>
+  </header>
+
+  <main>
+
+    <article>
+      <h2>Trump Impeached</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in velit egestas, sollicitudin felis sed, accumsan magna. Proin venenatis orci in libero posuere consectetur. Etiam elit nisi, dictum id finibus at, consectetur volutpat turpis. Phasellus rutrum felis quis ipsum vehicula, vitae convallis turpis interdum. Praesent tempor tempus lacus. Sed sit amet volutpat metus, in faucibus turpis. Donec fermentum nulla vitae orci rutrum facilisis. Duis imperdiet eu lectus sit amet varius. Fusce fringilla sagittis ligula, nec feugiat magna fringilla a. Vivamus sed eros aliquet, viverra risus vel, sollicitudin est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean eleifend ante odio, in cursus ipsum tincidunt ut.
+
+Fusce ut odio et erat feugiat elementum at non diam. Pellentesque mollis diam sed justo laoreet porta. Sed efficitur tortor vitae orci ullamcorper mollis. Mauris mauris dui, rutrum vitae elit sit amet, fringilla ultricies nulla. Cras sit amet purus et magna congue posuere at eget nulla. Curabitur vitae velit in magna venenatis vehicula eget a sapien. Mauris aliquet molestie turpis eu lacinia. Vestibulum vitae posuere metus, a venenatis mauris. Morbi est neque, fermentum at semper sit amet, dignissim vitae neque. Fusce vitae ipsum porta, ornare sem eu, dictum augue.
+
+Suspendisse mauris dui, venenatis at hendrerit et, feugiat vel eros. Fusce non tincidunt metus. Donec blandit sapien lorem, sed viverra nibh pulvinar eget. Proin molestie, nulla sit amet scelerisque fringilla, dolor sapien venenatis libero, nec pellentesque dui tellus ac ligula. Praesent laoreet, lectus nec lacinia pellentesque, eros nisl egestas lorem, vitae consectetur mauris elit ac ante. Morbi tortor mauris, facilisis id libero non, auctor egestas dolor. Nullam at maximus dolor. Etiam nibh elit, pretium non leo nec, finibus aliquet urna. Etiam et sodales dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque nec laoreet enim, eget faucibus nisi. Phasellus varius odio eros, non dictum odio accumsan id. Aliquam convallis imperdiet ligula maximus viverra. Nulla commodo enim nec felis vestibulum, et suscipit magna hendrerit. Etiam vitae maximus purus.
+
+Integer faucibus, tellus vel cursus maximus, magna nisi tincidunt dui, sed dictum velit turpis non dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus eget nunc augue. Suspendisse vel turpis ac nulla egestas condimentum. Morbi sed pellentesque quam, vitae lacinia odio. Integer sem ex, pulvinar nec nunc sed, tempus tincidunt lorem. Praesent id laoreet lorem. Sed fringilla sem a facilisis efficitur.
+
+Curabitur tincidunt ipsum vitae mattis elementum. Curabitur ac dui et tortor vestibulum condimentum. Pellentesque diam turpis, accumsan ut mattis molestie, aliquam sit amet justo. Donec eu leo rutrum, porta eros sit amet, vestibulum lectus. Praesent porttitor, tellus ac fermentum molestie, ligula mi laoreet leo, sed pulvinar eros mi a risus. Suspendisse laoreet cursus arcu id mollis. Mauris in condimentum diam. Donec suscipit ultricies vehicula. Mauris volutpat, dui vitae facilisis mattis, purus est porta magna, eu tincidunt quam augue vitae elit. Donec ac finibus turpis. </p>
+    </article>
+  </main>
+
+  <footer>
+    <p>&copy; No one!</p>
+  </footer>
+
+</body>
 </html>
